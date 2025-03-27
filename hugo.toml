@@ -12,3 +12,7 @@ main = [
 [params]
 description = "Chandler Shaw is the best person on the fucking planet"
 themeColor = "theme-base-0d"
+
+[caches]
+[caches.images]
+dir = ':cacheDir/images'

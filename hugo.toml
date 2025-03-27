@@ -6,7 +6,7 @@ theme = 'hyde'
 [Menus]
 main = [
   { Name = "Github", URL = "https://github.com/missladychan" },
-  # { Name = "LinkedIn", URL = "https://www.linkedin.com/in/chandlermshaw" },
+  { Name = "LinkedIn", URL = "https://youtu.be/dQw4w9WgXcQ?si=3m_9uJpva3vA5oBq" },
 ]
 
 [params]

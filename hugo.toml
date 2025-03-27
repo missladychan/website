@@ -10,7 +10,7 @@ main = [
 ]
 
 [params]
-description = "Chandler Shaw is the best person on the fucking planet"
+description = "This is a placeholder tagline"
 themeColor = "theme-base-0d"
 
 [caches]

@@ -1,4 +1,14 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://chandlershaw.com'
 languageCode = 'en-us'
 title = 'Chandler Shaw PhD'
 theme = 'hyde'
+
+[Menus]
+main = [
+  { Name = "Github", URL = "https://github.com/missladychan" },
+  # { Name = "LinkedIn", URL = "https://www.linkedin.com/in/chandlermshaw" },
+]
+
+[params]
+description = "Chandler Shaw is the best person on the fucking planet"
+themeColor = "theme-base-0d"
